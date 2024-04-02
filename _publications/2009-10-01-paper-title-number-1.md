@@ -5,7 +5,7 @@ permalink: https://openaccess.thecvf.com/content/CVPR2021/papers/Reiss_PANDA_Ada
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-6-19
 venue: 'CVPR'
-paperurl: [cvf](https://openaccess.thecvf.com/content/CVPR2021/papers/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.pdf)
+paperurl: '[cvf](https://openaccess.thecvf.com/content/CVPR2021/papers/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.pdf)'
 citation: 'Tal Reiss*, **Niv Cohen***</b>, Liron Bergman, Yedid Hoshen. *Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021.
 ---
 
