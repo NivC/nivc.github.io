@@ -15,6 +15,6 @@ You can also check my personal [site](https://www.cs.huji.ac.il/w~nivc/riddles.h
 
 News
 --------
-My team together with Yuval Lemberg, Hestia, won **1st place** (Defense track) and **3st place** (Attack track) in the [Large Language Model Capture-the-Flag Competition](https://ctf.spylab.ai/).
+- My team together with Yuval Lemberg, Hestia, won **1st place** (Defense track) and **3st place** (Attack track) in the [Large Language Model Capture-the-Flag Competition](https://ctf.spylab.ai/).
 
-Our work on the vulnerability of concept erasure methods will be presented in ICLR 2024. Check out our project [website](https://nyu-dice-lab.github.io/CCE/)!
+- Our work on the vulnerability of concept erasure methods will be presented in ICLR 2024. Check out our project [website](https://nyu-dice-lab.github.io/CCE/)!
