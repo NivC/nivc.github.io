@@ -21,7 +21,7 @@ Work experience
 
 * November 2021 - February 2022: Research Intern, Nvidia Research, Tel Aviv
 
-* February 2018 - June 2019: Member of the theoretical questions committee, The 50th International Physics Olympiad (IPhO), Tel Aviv
+* February 2018 - June 2019: Committee member for theoretical questions, The 50th International Physics Olympiad (IPhO), Tel Aviv
   
   
 Service 
