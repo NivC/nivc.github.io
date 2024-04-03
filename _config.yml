@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : #"Niv Cohen"
   pronouns         : # example: "she/her"  
-  bio              : "Post-doc at NYU"
+  bio              : #"Post-doc at NYU"
   location         : "New York City, New York"
   employer         : "New York University"
   uri              : # URL
