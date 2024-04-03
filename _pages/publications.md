@@ -14,7 +14,7 @@ This is a short list of selected publications.
 
 
 **Circumventing Concept Erasure Methods For Text-to-Image Models** 
-<br> Minh Pham, Kelly O. Marshall, <b>Niv Cohen</b>, Govind Mittal, Chinmay Hegde <br> International Conference on Learning Representations. August 2023. [Paper](https://arxiv.org/abs/2306.08183) [Code](https://nyu-dice-lab.github.io/CCE/])
+<br> Minh Pham, Kelly O. Marshall, <b>Niv Cohen</b>, Govind Mittal, Chinmay Hegde <br> International Conference on Learning Representations. August 2023. [Paper](https://arxiv.org/abs/2308.01508) [Code](https://nyu-dice-lab.github.io/CCE/)
 
 **AI-assisted Tagging of Deepfake Audio Calls using Challenge-Response**
 <be> Zoe Piran, <b>Niv Cohen</b>, Yedid Hoshen, Mor Nitzan
