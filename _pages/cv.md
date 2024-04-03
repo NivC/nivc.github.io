@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Current: Research Scientist, New York University, New York
+* Current: Research Scientist (post-doc), New York University, New York
 
 * November 2021 - February 2022: Research Intern, Nvidia Research, Tel Aviv
 
