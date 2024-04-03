@@ -26,4 +26,4 @@ This is a short list of selected publications.
 
 **PANDA: Adapting Pretrained Features for Anomaly Detection and Segmentation** 
 <br> Tal Reiss*, <b>Niv Cohen*</b>, Liron Bergman, Yedid Hoshen <br> <i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2021.
-[Paper]("https://arxiv.org/pdf/2010.05903.pdf?fbclid=IwAR2u4Vi2mAUctmRCKb6CGaDJePRAquyJmGEcNTFjNeHydV7vo-VxGSJmxHA)  [Code](https://github.com/talreiss/PANDA)
+[Paper](https://arxiv.org/pdf/2010.05903.pdf?fbclid=IwAR2u4Vi2mAUctmRCKb6CGaDJePRAquyJmGEcNTFjNeHydV7vo-VxGSJmxHA) [Code](https://github.com/talreiss/PANDA)
