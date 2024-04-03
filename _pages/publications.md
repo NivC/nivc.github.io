@@ -20,7 +20,7 @@ author_profile: true
 <br> Zoe Piran, <b>Niv Cohen</b>, Yedid Hoshen, Mor Nitzan
 <i>Nature Biotechnology</i>, January 2024. [Paper](https://www.nature.com/articles/s41587-023-02079-x) [Code](https://github.com/nitzanlab/biolord)
 
-**This is my unicorn, Fluffy": Personalizing frozen vision-language representations**
+**"This is my unicorn, Fluffy": Personalizing frozen vision-language representations**
 <br> <b>Niv Cohen</b>, Rinon Gal, Eli A Meirom, Gal Chechik, Yuval Atzmon <br> <i>European Conference on Computer Vision (ECCV)</i>, October 2022. Oral Presentation.
 [Paper](https://arxiv.org/abs/2204.01694) [Code](https://github.com/NVlabs/PALAVRA)
 
