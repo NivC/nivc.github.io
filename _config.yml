@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Niv Cohen"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Niv Cohen"
 description              : &description "Research Scientist at New York University (post-doc)"
