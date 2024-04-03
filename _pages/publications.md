@@ -14,7 +14,7 @@ author_profile: true
 
 
 **Circumventing Concept Erasure Methods For Text-to-Image Models** 
-<br> Minh Pham, Kelly O. Marshall, <b>Niv Cohen</b>, Govind Mittal, Chinmay Hegde <br> International Conference on Learning Representations, May 2024. [Paper](https://arxiv.org/abs/2308.01508) [Code](https://nyu-dice-lab.github.io/CCE/)
+<br> Minh Pham, Kelly O. Marshall, <b>Niv Cohen</b>, Govind Mittal, Chinmay Hegde <br> <i>International Conference on Learning Representations (ICLR)</i>, May 2024. [Paper](https://arxiv.org/abs/2308.01508) [Code](https://nyu-dice-lab.github.io/CCE/)
 
 **Disentanglement of single-cell data with biolorde**
 <br> Zoe Piran, <b>Niv Cohen</b>, Yedid Hoshen, Mor Nitzan <br>
