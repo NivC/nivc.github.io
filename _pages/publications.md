@@ -17,7 +17,7 @@ author_profile: true
 <br> Minh Pham, Kelly O. Marshall, <b>Niv Cohen</b>, Govind Mittal, Chinmay Hegde <br> International Conference on Learning Representations, May 2024. [Paper](https://arxiv.org/abs/2308.01508) [Code](https://nyu-dice-lab.github.io/CCE/)
 
 **Disentanglement of single-cell data with biolorde**
-<br> Zoe Piran, <b>Niv Cohen</b>, Yedid Hoshen, Mor Nitzan
+<br> Zoe Piran, <b>Niv Cohen</b>, Yedid Hoshen, Mor Nitzan <br>
 <i>Nature Biotechnology</i>, January 2024. [Paper](https://www.nature.com/articles/s41587-023-02079-x) [Code](https://github.com/nitzanlab/biolord)
 
 **"This is my unicorn, Fluffy": Personalizing frozen vision-language representations**
