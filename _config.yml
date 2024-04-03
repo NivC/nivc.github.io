@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Niv Cohen"
 title_separator          : "-"
 name                     : &name "Niv Cohen"
 description              : &description "Research Scientist at New York University (post-doc)"
@@ -22,7 +22,7 @@ repository               : Nivc.github.io
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Niv Cohen"
+  name             : #"Niv Cohen"
   pronouns         : # example: "she/her"  
   bio              : "Post-doc at NYU"
   location         : "New York City, New York"
