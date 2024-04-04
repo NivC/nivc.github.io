@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, Hebrew University of Jerusalem, 2024
-* M.Sc. in Physics, Technion – Israel Institute of Technology, 2014
-* B.Sc. in Physics and Mathematics, Technion – Israel Institute of Technology 2012
+* M.Sc. in Physics, Technion – Israel Institute of Technology, 2018
+* B.Sc. in Physics and Mathematics, Technion – Israel Institute of Technology 2014
 
 Work experience
 ======
