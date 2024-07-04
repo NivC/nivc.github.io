@@ -257,7 +257,7 @@ defaults:
   # _resources
   - scope:
       path: ""
-      type: resources
+      type: publications
     values:
       layout: single
       author_profile: true
