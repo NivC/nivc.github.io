@@ -19,4 +19,4 @@ News
 
 - My team together with Yuval Lemberg, Hestia, won **1st place** (Defense track) and **3st place** (Attack track) in the [Large Language Model Capture-the-Flag Competition](https://ctf.spylab.ai/) *SaTML 2024*.
 
-- Our work **Circumventing concept erasure methods for text-to-image generative models** will be presented in *ICLR 2024*.
+- Our work [Circumventing concept erasure methods for text-to-image generative models](https://arxiv.org/pdf/2308.01508) will be presented in *ICLR 2024*.
