@@ -19,7 +19,7 @@ main:
     url: /resources/
 
   - title: "Contact"
-    url: /Contact/
+    url: /contact/
 
   #- title: "Guide"
   #  url: /markdown/
