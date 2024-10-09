@@ -16,6 +16,8 @@ You can also check my personal [site](https://www.cs.huji.ac.il/w~nivc/riddles.h
 News
 --------
 
+- Three papers I co-authored have been accepted to NeurIPS / NeurIPS D & B 2024 (on [tabular data](https://arxiv.org/pdf/2402.11137), [data curation](https://arxiv.org/pdf/2410.05057), and [jailbreaking](https://arxiv.org/pdf/2406.07954))
+
 - Our workshop [Red Teaming GenAI: What Can We Learn from Adversaries](redteaming-gen-ai.github.io) will take place at *NeurIPS 2024*. We are accepting submissions until **September 14, 2024**!
 
 - My team together with Yuval Lemberg, Hestia, won **1st place** (Defense track) and *3st place* (Attack track) in the [Large Language Model Capture-the-Flag Competition](https://ctf.spylab.ai/) *SaTML 2024*.
