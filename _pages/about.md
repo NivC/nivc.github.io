@@ -16,7 +16,7 @@ You can also check my personal [site](https://www.cs.huji.ac.il/w~nivc/riddles.h
 News
 --------
 
-- Three papers I co-authored have been accepted to NeurIPS / NeurIPS D & B 2024 (on [tabular data](https://arxiv.org/pdf/2402.11137), [data curation](https://arxiv.org/pdf/2410.05057), and [jailbreaking](https://arxiv.org/pdf/2406.07954))
+- Three papers I co-authored have been accepted to *NeurIPS 2024* (on [tabular data](https://arxiv.org/pdf/2402.11137) - main track, [data curation](https://arxiv.org/pdf/2410.05057) - D & B, and [jailbreaking](https://arxiv.org/pdf/2406.07954) - D & B spotlight)
 
 - Our workshop [Red Teaming GenAI: What Can We Learn from Adversaries](redteaming-gen-ai.github.io) will take place at *NeurIPS 2024*. We are accepting submissions until **September 14, 2024**!
 
