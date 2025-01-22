@@ -12,9 +12,8 @@ author_profile: true
 {% include base_path %}
 
 
-
-**Circumventing Concept Erasure Methods For Text-to-Image Models** 
-<br> Minh Pham, Kelly O. Marshall, <b>Niv Cohen</b>, Govind Mittal, Chinmay Hegde <br> <i>International Conference on Learning Representations (ICLR)</i>, May 2024. [Paper](https://arxiv.org/abs/2308.01508) [Code](https://nyu-dice-lab.github.io/CCE/)
+**Hidden in the Noise: Two-Stage Robust Watermarking for Images** 
+<br> Kasra Arabi, Benjamin Feuer, R. Teal Witter, Chinmay Hegde, <b>Niv Cohen</b> <br> <i>International Conference on Learning Representations (ICLR)</i>, May 2024. [Paper](https://arxiv.org/abs/2412.04653) [Code](https://github.com/anonymousiclr2025submission/Hidden-in-the-Noise)
 
 **Disentanglement of single-cell data with biolorde**
 <br> Zoe Piran, <b>Niv Cohen</b>, Yedid Hoshen, Mor Nitzan <br>
