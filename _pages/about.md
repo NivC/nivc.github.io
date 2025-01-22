@@ -15,6 +15,7 @@ You can also check my personal [site](https://www.cs.huji.ac.il/w~nivc/riddles.h
 
 News
 --------
+- Our work [Hidden in the Noise: Two-Stage Robust Watermarking for Images](https://arxiv.org/pdf/2412.04653) will be presented in *ICLR 2025*.
 
 - Three papers I co-authored have been accepted to *NeurIPS 2024* (on [Tabular Data](https://arxiv.org/pdf/2402.11137) - Main Track, [Data Curation](https://arxiv.org/pdf/2410.05057) - D & B, and [Jailbreaking](https://arxiv.org/pdf/2406.07954) - D & B Spotlight)
 
