@@ -21,6 +21,6 @@ News
 
 - Our workshop [Red Teaming GenAI: What Can We Learn from Adversaries](https://redteaming-gen-ai.github.io/) will take place at *NeurIPS 2024*. We are accepting submissions until *September 14, 2024*!
 
-- My team together with Yuval Lemberg, Hestia, won **1st place** (Defense track) and *3st place* (Attack track) in the [Large Language Model Capture-the-Flag Competition](https://ctf.spylab.ai/) *SaTML 2024*.
+- My team together with Yuval Lemberg, *Hestia*, won **1st place** (Defense track) and *3st place* (Attack track) in the [Large Language Model Capture-the-Flag Competition](https://ctf.spylab.ai/) *SaTML 2024*.
 
 - Our work [Circumventing concept erasure methods for text-to-image generative models](https://arxiv.org/pdf/2308.01508) will be presented in *ICLR 2024*.
