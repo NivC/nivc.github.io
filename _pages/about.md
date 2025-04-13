@@ -17,7 +17,7 @@ News
 --------
 - Our workshop [DataWorld: Unifying Data Curation Frameworks Across Domains](https://dataworldicml2025.github.io/)) will take place at *ICML 2025*. We are accepting submissions until *May 21, 2025*!
   
-- I was awarded the Blavatnik Prize for Outstanding Israeli Doctoral Students in Computer Science.
+- I received the *Blavatnik Prize for Outstanding Israeli Doctoral Students in Computer Science*.
 
 - Our work [Hidden in the Noise: Two-Stage Robust Watermarking for Images](https://arxiv.org/pdf/2412.04653) will be presented in *ICLR 2025*.
 
