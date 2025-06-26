@@ -15,7 +15,7 @@ You can also check my personal [site](https://www.cs.huji.ac.il/w~nivc/riddles.h
 
 News
 --------
-- Our work [SEAL: Semantic Aware Image Watermarking](https://arxiv.org/pdf/2503.12172)) will be presented in *ICCV 2025*.
+- Our work [SEAL: Semantic Aware Image Watermarking](https://arxiv.org/pdf/2503.12172) will be presented in *ICCV 2025*.
 
 - Our workshop [DataWorld: Unifying Data Curation Frameworks Across Domains](https://dataworldicml2025.github.io/) will take place at *ICML 2025*. We are accepting submissions until *May 21, 2025*!
 
