@@ -15,6 +15,9 @@ You can also check my personal [site](https://www.cs.huji.ac.il/w~nivc/riddles.h
 
 News
 --------
+
+- Our work [When Are Concepts Erased From Diffusion Models?](https://arxiv.org/pdf/2505.17013) will be presented in *NeurIPS 2025*.
+
 - Our work [SEAL: Semantic Aware Image Watermarking](https://arxiv.org/pdf/2503.12172) will be presented in *ICCV 2025*.
 
 - I received the *Blavatnik Prize for Outstanding Israeli Doctoral Students in Computer Science*.
