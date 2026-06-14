@@ -9,21 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<p style="font-size: 1.0em; font-weight: bold;">Education</p>
 * Ph.D. in Computer Science, Hebrew University of Jerusalem, 2024
 * M.Sc. in Physics, Technion – Israel Institute of Technology, 2018
 * B.Sc. in Physics and Mathematics, Technion – Israel Institute of Technology 2014
 
-Work experience
-======
+<p style="font-size: 1.0em; font-weight: bold;">Work experience</p>
 * Current: Research Scientist (post-doc), New York University, New York
 * November 2021 - February 2022: Research Intern, Nvidia Research, Tel Aviv
 * February 2018 – June 2019: Member of the Committee for Theoretical Questions, 50th International Physics Olympiad (IPhO), Tel Aviv.
   
   
-Service 
-======
+<p style="font-size: 1.0em; font-weight: bold;">Service</p>
 * Reviewing for  NeurIPS, ICLR, CVPR, ECCV, ICCV, ICML, AAAI
 
 My full CV can be found [here](https://drive.google.com/file/d/1buk1tr0LqOGrian4SHKg7dmUBHiKYtHB/view).
