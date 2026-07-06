@@ -8,8 +8,7 @@ redirect_from:
 ---
 My research focuses on detecting and understanding unexpected phenomena in machine learning models and scientific data.
 
-I am now a post-doc at [New York University](https://engineering.nyu.edu/), working with Prof. [Chinmay Hegde](https://chinmayhegde.github.io/).
-Prior to that I received my PhD at the [Hebrew University](https://www.vision.huji.ac.il/main/), supervised by Prof. [Yedid Hoshen](https://www.cs.huji.ac.il/~ydidh).
+I am an incoming faculty member at the [Technion ECE Department](https://ece.technion.ac.il/) (starting October 2026). Before that, I was a post-doc at [New York University](https://engineering.nyu.edu/) with Prof. [Chinmay Hegde](https://chinmayhegde.github.io/). I received my PhD at the [Hebrew University](https://www.vision.huji.ac.il/main/), supervised by Prof. [Yedid Hoshen](https://www.cs.huji.ac.il/~ydidh).
 
 You can also check my personal [site](https://nivc.github.io/riddles/) with some nice riddles and more.
 
