@@ -1,8 +1,8 @@
 {% include base_path %}
 
 <div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
+  <div class="masthead__inner-wrap" style="display: flex; align-items: center; justify-content: space-between;">
+    <div class="masthead__menu" style="flex: 1; min-width: 0;">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
@@ -19,5 +19,8 @@
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
+    <a href="https://ece.technion.ac.il/" class="masthead__logo" style="flex-shrink: 0; margin-left: 15px;">
+      <img src="{{ base_path }}/images/technion_ece_logo.png" alt="Technion ECE" style="height: 40px; width: auto; display: block;">
+    </a>
   </div>
 </div>
