@@ -28,6 +28,7 @@ News
   
 - Our work [Hidden in the Noise: Two-Stage Robust Watermarking for Images](https://arxiv.org/pdf/2412.04653) will be presented in *ICLR 2025*.
 
+<!--
 - Three papers I co-authored have been accepted to *NeurIPS 2024* (on [Tabular Data](https://arxiv.org/pdf/2402.11137) - Main Track, [Data Curation](https://arxiv.org/pdf/2410.05057) - D & B, and [Jailbreaking](https://arxiv.org/pdf/2406.07954) - D & B Spotlight)
 
 - Our workshop [Red Teaming GenAI: What Can We Learn from Adversaries](https://redteaming-gen-ai.github.io/) will take place at *NeurIPS 2024*. We are accepting submissions until *September 14, 2024*!
@@ -35,3 +36,4 @@ News
 - My team together with Yuval Lemberg, *Hestia*, won **1st place** (Defense track) and *3st place* (Attack track) in the [Large Language Model Capture-the-Flag Competition](https://ctf.spylab.ai/) *SaTML 2024*.
 
 - Our work [Circumventing concept erasure methods for text-to-image generative models](https://arxiv.org/pdf/2308.01508) will be presented in *ICLR 2024*.
+-->
