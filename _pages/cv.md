@@ -20,8 +20,10 @@ redirect_from:
 * February 2018 – June 2019: Member of the Committee for Theoretical Questions, 50th International Physics Olympiad (IPhO), Tel Aviv.
   
   
+<!--
 <p style="font-size: 1.0em; font-weight: bold;">Service</p>
 * Reviewing for  NeurIPS, ICLR, CVPR, ECCV, ICCV, ICML, AAAI
+-->
 
 My full CV can be found [here](https://drive.google.com/file/d/1buk1tr0LqOGrian4SHKg7dmUBHiKYtHB/view).
 
