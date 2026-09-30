@@ -17,6 +17,8 @@ News
 
 - I will join the [ECE faculty at the Technion](https://ece.technion.ac.il/) in October 2026. If you are interested in working with me, check out the [Prospective Students](/students/) page!
 
+- Our work [On the Robustness of Watermarking for Autoregressive Image Generation](https://arxiv.org/abs/2604.11720) will be presented in *NeurIPS 2026*.
+
 - Our work [When Are Concepts Erased From Diffusion Models?](https://arxiv.org/pdf/2505.17013) will be presented in *NeurIPS 2025*.
 
 - Our work [SEAL: Semantic Aware Image Watermarking](https://arxiv.org/pdf/2503.12172) will be presented in *ICCV 2025*.
