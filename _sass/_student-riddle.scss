@@ -1,0 +1,14 @@
+.student-riddle__body {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+
+  @media (max-width: 600px) {
+    flex-direction: column;
+    align-items: stretch;
+
+    > img {
+      align-self: center;
+    }
+  }
+}
