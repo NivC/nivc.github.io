@@ -8,14 +8,14 @@ redirect_from:
 ---
 My research focuses on detecting and understanding unexpected phenomena in machine learning models and scientific data.
 
-I am an incoming faculty member at the [Technion ECE Department](https://ece.technion.ac.il/) (starting October 2026). Before that, I was a post-doc at [New York University](https://engineering.nyu.edu/) with Prof. [Chinmay Hegde](https://chinmayhegde.github.io/). I received my PhD at the [Hebrew University](https://vision.huji.ac.il/main/), supervised by Prof. [Yedid Hoshen](https://www.cs.huji.ac.il/~ydidh).
+I am a faculty member at the [Technion ECE Department](https://ece.technion.ac.il/). Before that, I was a post-doc at [New York University](https://engineering.nyu.edu/) with Prof. [Chinmay Hegde](https://chinmayhegde.github.io/). I received my PhD at the [Hebrew University](https://vision.huji.ac.il/main/), supervised by Prof. [Yedid Hoshen](https://www.cs.huji.ac.il/~ydidh).
 
 You can also check my personal [site](https://nivc.github.io/riddles/) with some nice riddles and more.
 
 News
 --------
 
-- I will join the [ECE faculty at the Technion](https://ece.technion.ac.il/) in October 2026. If you are interested in working with me, check out the [Prospective Students](/students/) page!
+- I joined the [ECE faculty at the Technion](https://ece.technion.ac.il/) in October 2026. If you are interested in working with me, check out the [Prospective Students](/students/) page!
 
 - Our work [On the Robustness of Watermarking for Autoregressive Image Generation](https://arxiv.org/abs/2604.11720) will be presented in *NeurIPS 2026*.
 
